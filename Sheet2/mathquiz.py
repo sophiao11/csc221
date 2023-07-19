@@ -1,0 +1,40 @@
+from random import randint 
+correct = 0
+question ='What is 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
